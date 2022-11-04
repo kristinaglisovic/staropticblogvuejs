@@ -1,0 +1,12 @@
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\bin\Release\net5.0\Blog.Domain.deps.json
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\bin\Release\net5.0\Blog.Domain.dll
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\bin\Release\net5.0\Blog.Domain.pdb
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\obj\Release\net5.0\Blog.Domain.csproj.AssemblyReference.cache
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\obj\Release\net5.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\obj\Release\net5.0\Blog.Domain.AssemblyInfoInputs.cache
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\obj\Release\net5.0\Blog.Domain.AssemblyInfo.cs
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\obj\Release\net5.0\Blog.Domain.csproj.CoreCompileInputs.cache
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\obj\Release\net5.0\Blog.Domain.dll
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\obj\Release\net5.0\refint\Blog.Domain.dll
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\obj\Release\net5.0\Blog.Domain.pdb
+D:\DIPLOMSKI\backend\AZZPP\Blog.Domain\obj\Release\net5.0\ref\Blog.Domain.dll
